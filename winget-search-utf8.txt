@@ -1,0 +1,719 @@
+﻿
+   - 
+                                                                                                                        
+Nome                                 ID                           Vers├úo       Correspond├¬ncia Origem
+------------------------------------------------------------------------------------------------------
+GoFormz Mobile Forms                 9WZDNCRDRWRT                 Unknown                      msstore
+Go Blog!                             9WZDNCRFK0KW                 Unknown                      msstore
+FirstClass GO                        9NBLGGH0K1D7                 Unknown                      msstore
+WorkingGo                            9NT7BVT1TW6V                 Unknown                      msstore
+EasyGo                               9NVWW08R18JT                 Unknown                      msstore
+FSI GO                               9NBLGGH0JKGM                 Unknown                      msstore
+GoPay                                9NBLGGH52592                 Unknown                      msstore
+BecomeGoMaster                       9NSFGWHH56BL                 Unknown                      msstore
+Translate Go - Smart Translator      9N02NFS6CWZL                 Unknown                      msstore
+GoMyBusiness                         9PNP6ZZPR9CK                 Unknown                      msstore
+GO FAST                              9P969VMG7CX6                 Unknown                      msstore
+GO!MAG                               9WZDNCRDN51T                 Unknown                      msstore
+PDF Viewer Go                        9N31X1Z5QPRL                 Unknown                      msstore
+Go: The Infinite Path                9N62MMG4P72K                 Unknown                      msstore
+Octopus GO                           9NFNDQVFHTLK                 Unknown                      msstore
+PXI Go                               9NLJ33MXMXCN                 Unknown                      msstore
+GoFax                                9NW734W0H20L                 Unknown                      msstore
+I'm InTouch Go                       9WZDNCRDSMRK                 Unknown                      msstore
+HMH Go                               9NP6N3F0WMJ3                 Unknown                      msstore
+Go Programming Language              GoLang.Go                    1.26.4       Moniker: go     winget
+Nginx UI                             0xJacky.nginx-ui             2.3.2        Tag: go         winget
+Seanime Desktop                      5rahim.Seanime               3.8.3        Tag: go         winget
+PureLink                             AhmedSamy.PureLink           3.0.0        Tag: go         winget
+Grype                                Anchore.Grype                0.112.0      Tag: go         winget
+Syft                                 Anchore.Syft                 1.45.0       Tag: go         winget
+News CLI                             Atticus64.news               1.3.0        Tag: go         winget
+Betterleaks                          Betterleaks.Betterleaks      1.3.1        Tag: go         winget
+Config File Validator                Boeing.config-file-validator 2.2.2        Tag: go         winget
+fullfetch                            Buct0r.fullfetch             2.2.0        Tag: go         winget
+Caddy                                CaddyServer.Caddy            2.11.4       Tag: go         winget
+ytt                                  Carvel.ytt                   0.55.1       Tag: go         winget
+Compose Generator                    ChilliBits.ComposeGenerator  1.9.0        Tag: go         winget
+Coder Desktop (Core)                 Coder.CoderDesktop           0.8.3        Tag: go         winget
+Concourse Fly                        Concourse.Fly                8.2.3        Tag: go         winget
+k9s                                  Derailed.k9s                 0.50.18      Tag: go         winget
+Cloudflare DLP Forensic Copy Decoder Devolvio-B-V.cf-dlp-decode   2.3.0        Tag: go         winget
+puzzletea                            FelineStateMachine.puzzletea 2.0.1        Tag: go         winget
+Fission CLI                          Fission.Fission.CLI          1.22.0       Tag: go         winget
+Git LFS                              GitHub.GitLFS                3.7.1        Tag: go         winget
+Gitleaks                             Gitleaks.Gitleaks            8.30.1       Tag: go         winget
+GoCD Agent                           GoCD.Agent                   21.2.0-12498 Tag: go         winget
+GoCD Server                          GoCD.Server                  21.2.0-12498 Tag: go         winget
+golangci-lint                        GolangCI.golangci-lint       2.12.2       Tag: go         winget
+flatbuffers                          Google.flatbuffers           25.12.19     Tag: go         winget
+eitango                              HarumiWeb.Eitango            0.8.0        Tag: go         winget
+xlflow                               HarumiWeb.Xlflow             0.10.0       Tag: go         winget
+Hugo (Deploy)                        Hugo.Hugo.Deploy             0.162.1      Tag: go         winget
+nanovision                           IgorBayerl.nanovision        0.1.3        Tag: go         winget
+Ikemen GO                            IkemenGO.IkemenGO            0.99.0       Tag: go         winget
+Chronograf                           InfluxData.Chronograf        1.10.8       Tag: go         winget
+Rymdport                             Jacalz.Rymdport              3.9.1        Tag: go         winget
+icnsify                              JackMordaunt.icnsify         2.2.7        Tag: go         winget
+GoLand                               JetBrains.GoLand             2026.1.2     Tag: go         winget
+GoLand (EAP)                         JetBrains.GoLand.EAP         262.6228.35  Tag: go         winget
+html-to-markdown                     JohannesKaufmann.html2markdÔÇª 2.5.1        Tag: go         winget
+kigo                                 KDE.Kigo                     master       Tag: go         winget
+Laragon                              LeNgocKhoa.Laragon           8.6.1        Tag: go         winget
+Mage                                 Magefile.mage                1.15.0       Tag: go         winget
+hato                                 Midry.hato                   1.2.1        Tag: go         winget
+NATS Server                          NATSAuthors.NATSServer       2.10.25      Tag: go         winget
+Lalibela CLI                         NaodEthiop.Lalibela          0.1.23       Tag: go         winget
+Ollama                               Ollama.Ollama                0.24.0       Tag: go         winget
+Ollama (Portable)                    Ollama.Ollama.Portable       0.20.2       Tag: go         winget
+Goose                                Pressly.Goose                3.27.1       Tag: go         winget
+cairn                                ProductOfAmerica.cairn       0.5.0        Tag: go         winget
+Pulumi                               Pulumi.Pulumi                3.244.0      Tag: go         winget
+Rclone                               Rclone.Rclone                1.74.2       Tag: go         winget
+Scaleway CLI                         Scaleway.cli                 2.41.0       Tag: go         winget
+Square Cloud CLI                     SquareCloud.CLI              1.2.0        Tag: go         winget
+DNSControl                           StackExchange.DNSControl     4.41.0       Tag: go         winget
+Syncthing                            Syncthing.Syncthing          2.1.1        Tag: go         winget
+Task                                 Task.Task                    3.50.0       Tag: go         winget
+upcloud-cli                          UpCloud.upcloud-cli          3.33.0       Tag: go         winget
+vyai                                 Vybraan.vyai                 1.1.0        Tag: go         winget
+vygrant                              Vybraan.vygrant              0.6.4        Tag: go         winget
+CloudflareSpeedTest                  XIU2.CloudflareSpeedTest     2.3.5        Tag: go         winget
+literalizer-cli                      adamtheturtle.literalizer-cÔÇª 2026.04.30   Tag: go         winget
+Dbmate                               amacneil.dbmate              2.33.0       Tag: go         winget
+mkbrr                                autobrr.mkbrr                1.23.0       Tag: go         winget
+Mailpit                              axllent.mailpit              1.29.5       Tag: go         winget
+Azion CLI                            aziontech.azion              4.21.0       Tag: go         winget
+kafui                                benny93.kafui                0.1.32       Tag: go         winget
+typioca                              bloznelis.typioca            3.1.0        Tag: go         winget
+mediamtx                             bluenviron.mediamtx          1.19.0       Tag: go         winget
+soft-serve                           charmbracelet.soft-serve     0.11.6       Tag: go         winget
+Neo Cowsay                           codehex.Neo-cowsay           2.0.4        Tag: go         winget
+poke-cli                             digitalghost-dev.poke-cli    1.9.0        Tag: go         winget
+Spice                                dixieflatline76.Spice        2.5.7        Tag: go         winget
+gdu                                  dundee.gdu                   5.36.1       Tag: go         winget
+etcd                                 etcd-io.etcd                 3.6.12       Tag: go         winget
+Lefthook                             evilmartians.lefthook        2.1.9        Tag: go         winget
+testmyapp                            gjergj.testmyapp             0.0.76       Tag: go         winget
+lf                                   gokcehan.lf                  r41          Tag: go         winget
+goplus                               goplus.xgo                   1.6.8        Tag: go         winget
+repo2page                            imsncht.repo2page            1.0.7        Tag: go         winget
+Jumppad                              jumppad.jumppad              0.27.1       Tag: go         winget
+fzf                                  junegunn.fzf                 0.73.1       Tag: go         winget
+just-install                         just-install.just-install    3.4.5        Tag: go         winget
+k3d                                  k3d.k3d                      5.9.0        Tag: go         winget
+vx                                   loonghao.vx                  0.9.13       Tag: go         winget
+gup                                  nao1215.gup                  1.1.4        Tag: go         winget
+pdfcpu                               pdfcpu.pdfcpu                0.11.1       Tag: go         winget
+restic                               restic.restic                0.18.1       Tag: go         winget
+Boiler                               rishiyaduwanshi.boiler       0.3.0        Tag: go         winget
+croc                                 schollz.croc                 10.4.4       Tag: go         winget
+Eris                                 sibexico.Eris                0.54.1       Tag: go         winget
+Trailblazer                          sibexico.Trailblazer         0.7.0        Tag: go         winget
+Trusty Messenger                     sibexico.Trusty              0.5.2        Tag: go         winget
+Surge Downloader                     surge-downloader.surge       0.8.7        Tag: go         winget
+go-toolkit                           the-code-fixer-23.go-toolkit 0.2.1        Tag: go         winget
+tun2socks                            xjasonlyu.tun2socks          v2.6.0       Tag: go         winget
+Algernon                             xyproto.algernon             1.17.9       Tag: go         winget
+WinGoDarkTray                        5mdt.WinGoDarkTray           2.3.1                        winget
+DesktopGo                            Aixbox.DesktopGo             1.0.4                        winget
+APK Editor Studio                    AlexanderGorishnyak.APKEditÔÇª 1.7.2                        winget
+APK Icon Editor                      AlexanderGorishnyak.APKIconÔÇª 2.2.0                        winget
+AlgoKit                              AlgorandFoundation.AlgoKit   2.10.2                       winget
+Algodoo                              Algoryx.Algodoo              2.2.1                        winget
+RoGold Ultimate App                  AlroviApS.RoGoldUltimateApp  1.4.0                        winget
+GitTop                               AmarBego.GitTop              0.5.3                        winget
+rscoop                               AmarBego.Rscoop              1.9.4                        winget
+WebMConverter                        Argorar.WebMConverter        3.42.0                       winget
+Argus Monitor                        Argotronic.ArgusMonitor      7.4.1.3173                   winget
+regolith                             Bedrock-OSS.regolith         1.8.0                        winget
+Belgium e-ID viewer                  BelgianGovernment.eIDViewer  5.1.6111                     winget
+Belgium e-ID middleware              BelgianGovernment.eIDmiddleÔÇª 5.1.6204                     winget
+Symbolic11                           Benisgo.Symbolic11           1.3                          winget
+Benthic Software: GoldSqall 1.x      BenthicSoftware.GoldSqall.1  1.5.0.130                    winget
+Benthic Software: GoldSqall 2.x      BenthicSoftware.GoldSqall.2  2.4.0.240                    winget
+Benthic Software: Golden 6.x         BenthicSoftware.Golden.6     6.3.0.672                    winget
+Benthic Software: Golden 7.x         BenthicSoftware.Golden.7     7.4.0.740                    winget
+Benthic Software: Golden 8.x         BenthicSoftware.Golden.8     8.4.0.842                    winget
+Benthic Software: Goldview 4.x       BenthicSoftware.Goldview.4   4.2.0.420                    winget
+Snap4Arduino                         BernatRomagosa.Snap4Arduino  10.3.6                       winget
+godotdec                             Bioruebe.godotdec            2.1.2                        winget
+cargo-shear                          Boshen.cargo-shear           1.12.4                       winget
+NetLogo                              CCL.NetLogo                  7.0.4                        winget
+CeVIO AI Voice Package - ÕÑÅÕàÄÒéüÒéï    CandyCreamAlgorithm.KanatoMÔÇª 2.0.0                        winget
+Vigoon                               CapricornConsultingGmbH.VigÔÇª 2.4.2261                     winget
+CargoLambda                          CargoLambda.CargoLambda      1.9.1                        winget
+Mago                                 CarthageSoftware.Mago        1.29.0                       winget
+Pingo                                CedricLouvrier.Pingo         1.25.1                       winget
+ClipCascade Go (Desktop)             Chaoleme.ClipCascadeGo.DeskÔÇª 1.12                         winget
+ClipCascade Go (Server)              Chaoleme.ClipCascadeGo.ServÔÇª 1.12                         winget
+ClipCascade Go (Web)                 Chaoleme.ClipCascadeGo.Web   1.12                         winget
+Reg Organizer                        ChemTableSoftware.RegOrganiÔÇª 9.89                         winget
+Comodo Dragon                        Comodo.ComodoDragon          134.0.6998.ÔÇª                 winget
+Unofficial Google Docs               CompLabs.GoogleDocs          2022.12.1                    winget
+CrisisGo                             CrisisGo.CrisisGo            6.34.2.12397                 winget
+Chromium-Gost                        CryptoPro.Chromium-Gost      148.0.7778.ÔÇª                 winget
+Fregonator                           DTHCST.Fregonator            6.0.0                        winget
+N Air Õ«ƒÚ¿ôþëê                         DWANGO.NAIR.experimental     1.1.2026051ÔÇª                 winget
+OpenToonz                            DWANGO.OpenToonz             1.7.1                        winget
+OpenToonz                            DWANGO.OpenToonz.Nightly     2024.05.04                   winget
+SeirenVoice þÁÉµ£êÒéåÒüïÒéè               DWANGO.SeirenVoice.yukari.TÔÇª 1.4.0-1.2.0ÔÇª                 winget
+Dragonframe                          DZEDSystems.Dragonframe      2026.01.5                    winget
+DragonframeLicenseManager            DZEDSystems.DragonframeLiceÔÇª 3.0.3                        winget
+GOATLY Meeting Summarizer            DataFortressCloud.GOATLYMeeÔÇª 0.1.1                        winget
+Flowgorithm                          DevinCook.Flowgorithm        4.5                          winget
+Dragon Programming Language          DragonLang.Dragon            1.0.5                        winget
+DuckDuckGo                           DuckDuckGo.DesktopBrowser    0.157.6.0                    winget
+DuckDuckGo Preview                   DuckDuckGo.DesktopBrowser.PÔÇª 0.160.5.0                    winget
+Go Spotify Cli                       Envoy49.go-spotify-cli       1.0.80                       winget
+ErgoFAKT V5                          Ergosoft.ErgoFAKT_V5         5.0.1.0                      winget
+Erlang OTP                           Erlang.ErlangOTP             29.0.1                       winget
+GoAwayEdge                           Exploitox.GoAwayEdge         2.0.3                        winget
+Logos Bible Software                 Faithlife.Logos              9.10.17                      winget
+GoAnywhere OpenPGP Studio            Fortra.GoAnywhereOpenPGPStuÔÇª 1.2.3                        winget
+Got Your Back                        GAM-Team.GotYourBack         1.90                         winget
+GOG GALAXY                           GOG.Galaxy                   2.0.100.1                    winget
+GOM Player                           GOMLab.GOMPlayer             2.3.114.5384                 winget
+Browser Bookmarks for PowerToys ComÔÇª GOODJINC.CmdPalBrowserBookmÔÇª 0.2.3                        winget
+DropPoint                            GameGodS3.DropPoint          1.2.1                        winget
+Videomass                            GianlucaPernigotto.Videomass 4.0.1                        winget
+GnOuGo                               GnOuGo.Agent                 0.9.0                        winget
+lego                                 GoACME.lego                  5.2.2                        winget
+Harbor CLI                           GoHarbor.Harbor              0.0.8                        winget
+GoTo                                 GoTo.GoTo                    4.18.0                       winget
+GoToAssist Agent Desktop Console     GoTo.GoToAssistAgentDesktopÔÇª 5.9.6.56                     winget
+GoToMeeting                          GoTo.GoToMeeting             10.19.0.199ÔÇª                 winget
+GoTo Opener (Multi User)             GoTo.GoToOpener              1.0.568                      winget
+LogMeIn Client                       GoTo.LogMeInClient           1.3.5676                     winget
+LogMeIn Resolve Desktop Console      GoTo.LogMeInResolveDesktopCÔÇª 1.16.1.73                    winget
+GoXLR Utility                        GoXLR-on-Linux.GoXLR-Utility 1.2.4                        winget
+Godot Engine                         GodotEngine.GodotEngine      4.6.3                        winget
+Godot Engine (Mono)                  GodotEngine.GodotEngine.Mono 4.6.3                        winget
+Godot Launcher                       GodotLauncher.Launcher       1.9.0                        winget
+Godwit Sync                          GodwitIO.GodwitSync          0.2.3                        winget
+GoldSim 15                           GoldSim.TechnologyGroup.GolÔÇª 15.0.257                     winget
+GoldWave                             GoldWave.GoldWave            7.04                         winget
+Purple Pen                           Golde.PurplePen              3.5.5.500                    winget
+GoldenDict                           GoldenDict.GoldenDict        1.5.1                        winget
+Gologin                              Gologin.Gologin              4.3.1                        winget
+GoodAccess                           GoodAccess.GoodAccess        4.7.16                       winget
+Minion                               GoodGameMods.Minion          3.0                          winget
+Google Ads Editor                    Google.AdsEditor             14.12.6.0                    winget
+Android CLI                          Google.AndroidCLI            1.0.15498356                 winget
+Android GPU Inspector 3.3.0          Google.AndroidGPUInspector   3.3.3                        winget
+Android Studio                       Google.AndroidStudio         2026.1.1.8                   winget
+Android Studio Beta                  Google.AndroidStudio.Beta    2026.1.1.7                   winget
+Android Studio Canary                Google.AndroidStudio.Canary  2026.1.2.4                   winget
+Antigravity                          Google.Antigravity           2.0.10                       winget
+Antigravity CLI                      Google.AntigravityCLI        1.0.4                        winget
+Antigravity IDE                      Google.AntigravityIDE        2.0.4                        winget
+Brotli                               Google.Brotli                1.2.0                        winget
+Google Chrome                        Google.Chrome                149.0.7827.ÔÇª                 winget
+Google Chrome Beta                   Google.Chrome.Beta           149.0.7827.ÔÇª                 winget
+Google Chrome Beta (EXE)             Google.Chrome.Beta.EXE       149.0.7827.ÔÇª                 winget
+Google Chrome Canary                 Google.Chrome.Canary         151.0.7872.0                 winget
+Google Chrome Dev                    Google.Chrome.Dev            150.0.7865.2                 winget
+Google Chrome Dev (EXE)              Google.Chrome.Dev.EXE        150.0.7865.2                 winget
+Google Chrome (EXE)                  Google.Chrome.EXE            149.0.7827.ÔÇª                 winget
+Google Chrome OS Readiness Tool BunÔÇª Google.ChromeOSReadinessTooÔÇª 1.0.4.0                      winget
+Chrome Remote Desktop Host           Google.ChromeRemoteDesktopHÔÇª 149.0.7827.ÔÇª                 winget
+Google Cloud SDK                     Google.CloudSDK              571.0.0                      winget
+Skaffold                             Google.ContainerTools.SkaffÔÇª 2.18.2                       winget
+Google Credential Provider for WindÔÇª Google.CredentialProviderFoÔÇª 138.0.7204.ÔÇª                 winget
+Dart SDK                             Google.DartSDK               3.12.1                       winget
+Google Earth Pro                     Google.EarthPro              7.3.7.1155                   winget
+Firebase CLI Tools                   Google.FirebaseCLI           20.18.2                      winget
+Google Desktop                       Google.GoogleDesktop         5.9.1005.12ÔÇª                 winget
+Google Drive                         Google.GoogleDrive           126.0.5.0                    winget
+Google Update                        Google.GoogleUpdater         150.0.7863.0                 winget
+Google Web Designer                  Google.GoogleWebDesigner     14.3.0.0                     winget
+IAP Desktop                          Google.IAPDesktop            2.49.1797                    winget
+Google µùÑµ£¼Þ¬×ÕàÑÕèø                    Google.JapaneseIME           3.33.6130.0                  winget
+libwebp                              Google.Libwebp               1.6.0                        winget
+Magika                               Google.Magika                1.1.0                        winget
+OSV Scanner                          Google.OSVScanner            2.3.8                        winget
+Perfetto                             Google.Perfetto              55.3                         winget
+Google Pinyin IME                    Google.Pinyin                2.7.25.128                   winget
+Android SDK Platform-Tools           Google.PlatformTools         37.0.0                       winget
+Google Play Games                    Google.PlayGames             26.5.27.1                    winget
+protobuf                             Google.Protobuf              35.0                         winget
+Quick Share from Google              Google.QuickShare            1.0.2600.1                   winget
+Google Talk                          Google.Talk                  1.0.0.105                    winget
+UIforETW                             Google.UIforETW              1.59                         winget
+VPN by Google One                    Google.VPNByGoogleOne        1.9.0.6                      winget
+Google Workspace CLI                 Google.WorkspaceCLI          0.22.5                       winget
+Google Workspace SyncTM for MicrosoÔÇª Google.WorkspaceSyncForMicrÔÇª 4.3.94.0                     winget
+copilot_here                         GordonBeeming.CopilotHere    2026.05.21.1                 winget
+Ferium                               GorillaDevs.Ferium           4.7.1                        winget
+GDLauncher                           GorillaDevs.GDLauncher       1.1.30                       winget
+FocusWriter                          GottCode.FocusWriter         1.9.0                        winget
+Drip                                 Gouryella.Drip               0.6.3                        winget
+AusweisApp                           Governikus.AusweisApp        2.5.1                        winget
+þ▓ñµö┐µÿô                               GovernmentOfThePRC.GuangdonÔÇª 3.1.200.141                  winget
+Úâæµö┐ÚÆë                               GovernmentOfThePRC.HeNan.ZhÔÇª 2.10.0-ReleÔÇª                 winget
+Õø¢Õ«ÂÕÅæµö╣Õºöõ║ÆÕè¿þø┤µÆ¡Õ╣│ÕÅ░               GovernmentOfThePRC.NDRC.NDRC 2.24.1.5072                  winget
+Þç¬þäÂõ║║þöÁÕ¡Éþ¿ÄÕèíÕ▒Ç(µëúþ╝┤þ½»)             GovernmentOfThePRC.SAT.ETB.ÔÇª V3.1.249                     winget
+µÁÖµö┐ÚÆë                               GovernmentOfThePRC.ZheJiangÔÇª 2.21.8-ReleÔÇª                 winget
+Website 2 APK Builder Pro            GoyalSoftech.Website2APKBuiÔÇª 6.0                          winget
+RegRun Security Suite Gold           Greatis.RegRun.Gold          17.60.2025.ÔÇª                 winget
+Cleaner Suite                        GregOrigin.CleanerSuite      1.0.0                        winget
+LogicAtlas CLI                       GregOrigin.LogicAtlasCLI     1.0.0                        winget
+Good Commit                          Guhan.GoodCommit             1.0.3                        winget
+MaxGoWindows                         HandheldGroup.MaxGoWindows   0.0.0.5                      winget
+GOGDL                                HeroicGamesLauncher.GOGDL    1.2.1                        winget
+Hugo                                 Hugo.Hugo                    0.162.1                      winget
+Hugo (Extended)                      Hugo.Hugo.Extended           0.162.1                      winget
+Windows Memory Cleaner               IgorMundstein.WinMemoryCleaÔÇª 3.0.8                        winget
+7-max                                IgorPavlov.7-max             24.01                        winget
+TfsCmdlets                           Igoravl.TfsCmdlets           2.11.0                       winget
+Dr.Explain                           IndigoByte.DrExplain         7.1.1383                     winget
+WinShell                             IngoHdeBoer.WinShell         4.0.0.6                      winget
+Pingus                               IngoRuhnke.Pingus            0.7.6                        winget
+JumpGo Browser                       JTechMe.JumpGoBrowser.Legacy 4.4                          winget
+Time Series Admin                    JanGrzegorowski.TimeSeriesAÔÇª 0.1.13                       winget
+GodMan                               JanMesarc.GodMan             1.2.0                        winget
+MasterGo                             JinweiZhiguang.MasterGo      1.10.8                       winget
+PingoMeter                           JustinGrote.PingoMeter       1.1.0                        winget
+kgoldrunner                          KDE.KGoldrunner              master                       winget
+CGoban                               KGSAI.CGoban                 3.5.143                      winget
+CGoban                               KGSOnline.CGoban             3.5.23                       winget
+ClipPing                             KevinGosse.ClipPing          2.3.0                        winget
+King of Avalon                       KingsGroup.KingOfAvalon      1.0.6.38                     winget
+LEGO Education SPIKE                 LEGO.LEGOEducationSPIKE      3.6.0                        winget
+LEGO┬« Education SPIKETM Legacy App   LEGO.LEGOEducationSPIKE.LegÔÇª 2.0.10                       winget
+LEGO┬« MINDSTORMS┬« Education EV3 ClaÔÇª LEGO.MindstormsEduEV3ClassrÔÇª 1.5.3                        winget
+LEGO MINDSTORMS Edu NXT Software     LEGO.MindstormsEduNXT        2.1.f6                       winget
+WeDo                                 LEGO.WeDo                    1.9.385                      winget
+ÚøÀþÑ×ÕèáÚÇƒÕÖ¿                           LeiGod.LeiGodAcc             11.3.2.0                     winget
+procgov                              LowLevelDesign.ProcessGoverÔÇª 3.2.25275                    winget
+Imagot                               MLMGames.Imagot              0.2.8                        winget
+Maltego                              Maltego.Maltego              4.9.3                        winget
+LycheeSlicer                         Mango3D.LycheeSlicer         7.6.5                        winget
+FeedFlow                             MarcoGomiero.FeedFlow        1.13.1                       winget
+Google Assistant                     Melvin-Abraham.Google-AssisÔÇª 1.1.0                        winget
+Google Assistant Preview             Melvin-Abraham.Google-AssisÔÇª 1.0.0-rc.2                   winget
+Mihomo (GOAMD64=v1)                  MetaCubeX.Mihomo.GOAMD64v1   1.19.26                      winget
+Mihomo (GOAMD64=v2)                  MetaCubeX.Mihomo.GOAMD64v2   1.19.25                      winget
+Lingering Object Liquidator (LoL)    Microsoft.LingeringObjectLiÔÇª 2.0.21                       winget
+Autologon                            Microsoft.Sysinternals.AutoÔÇª 3.10                         winget
+GoofCord                             MilkShift.GoofCord           2.2.1                        winget
+Mingo                                Mingo.Mingo                  1.14.1                       winget
+Integrator                           Mondago.GoIntegratorCara     4.11.0.10905                 winget
+MongoDB Compass Community            MongoDB.Compass.Community    1.41.0                       winget
+MongoDB Compass                      MongoDB.Compass.Full         1.49.8.0                     winget
+MongoDB Compass Isolated Edition     MongoDB.Compass.Isolated     1.49.8.0                     winget
+MongoDB Compass Readonly             MongoDB.Compass.Readonly     1.49.8.0                     winget
+MongoDB Tools                        MongoDB.DatabaseTools        100.17.0                     winget
+MongoDB Atlas CLI                    MongoDB.MongoDBAtlasCLI      1.55.0                       winget
+MongoDB CLI                          MongoDB.MongoDBCLI           2.0.7                        winget
+MongoDB                              MongoDB.Server               8.3.2                        winget
+MongoDB Shell                        MongoDB.Shell                2.8.3                        winget
+Doggo                                MrKaran.Doggo                1.1.2                        winget
+go-cqhttp                            Mrs4s.go-cqhttp              1.2.0                        winget
+Social Amnesia                       NickGottschlich.SocialAmnesÔÇª 2.0.2                        winget
+AquaSnap                             NurgoSoftware.AquaSnap       1.24.1                       winget
+Threat-Dragon-ng                     OWASP.ThreatDragon           2.6.2                        winget
+Unreal Gold (OldUnreal Edition)      OldUnreal.UnrealGold         227                          winget
+Unreal Tournament GOTY (OldUnreal EÔÇª OldUnreal.UnrealTournamentGÔÇª 469                          winget
+Google Readonly CLI                  OpenCLICollective.google-reÔÇª 1.0.58                       winget
+OpenGOAL Launcher                    OpenGOAL.Launcher            2.10.4                       winget
+AndroidMessages                      OrangeDrangon.AndroidMessagÔÇª 6.0.2                        winget
+APM                                  Orthogonal.APM               0.1.0                        winget
+Meeting Owl                          OwlLabs.MeetingOwl           4.8.2.170                    winget
+GoType                               P1NK0.GoType                 v1d                          winget
+APFS for Windows by Paragon Software Paragon.APFS                 2.1.110                      winget
+HFS+ for Windows by Paragon Software Paragon.HFS+                 11.4.298                     winget
+Linux File Systems for Windows by PÔÇª Paragon.LinuxFileSystems     5.2.1183                     winget
+goshs                                PatrickHener.Goshs           2.0.9                        winget
+Outlook Google Calendar Sync         PaulWoolcock.SyncOutlookandÔÇª 2.9.0-beta                   winget
+Outlook Google Calendar Sync (Alpha) PaulWoolcock.SyncOutlookandÔÇª 2.9.4-alpha                  winget
+PicGo                                PicGo.PicGo                  2.5.2                        winget
+PicGo Beta                           PicGo.PicGo.Beta             2.4.1-beta.1                 winget
+BluetoothDevicePairing               PolarGoose.BluetoothDevicePÔÇª 12.0                         winget
+CoffeeBean                           PolarGoose.CoffeeBean        5.0                          winget
+Handle2                              PolarGoose.Handle2           3.0                          winget
+Ragel for Windows                    PolarGoose.Ragel             6.10                         winget
+ShowWhatProcessLocksFile             PolarGoose.ShowWhatProcessLÔÇª 11.0                         winget
+comexplore                           PolarGoose.comexplore        1.0                          winget
+minisat                              PolarGoose.minisat           2.2                          winget
+uchardet                             PolarGoose.uchardet          0.0.8                        winget
+Navicat for MongoDB                  PremiumSoft.NavicatMongoDB   17.3.10                      winget
+ROBOTC for LEGO Mindstorms           Robomatter.ROBOTC.LEGOMindsÔÇª 4.56.0.9134                  winget
+Trayffeine                           RodrigoAntonioli.Trayffeine  1.1.1                        winget
+Second Desk                          Ryanisgood.SecondDesk        1.3.0                        winget
+Hangover Money                       SAKIBULHOQUESAKI.HangoverMoÔÇª 1.0.0                        winget
+GOREALRA                             SBSi.GoRealRa                1.4.12                       winget
+Touch Logon                          Samsung.TouchLogon           2.0.0                        winget
+Google Play Music Desktop Player     SamuelAttard.GooglePlayMusiÔÇª 4.7.1                        winget
+Remote LAN Control                   SamyGO.RemoteLANControl      0.8                          winget
+SammyWidgets                         SamyGO.SammyWidgets          1.1                          winget
+SamyGO Shell Enabler                 SamyGO.ShellEnable           0.1.1                        winget
+Signal Checker for DVB-T             SamyGO.SignalChecker         0.3                          winget
+Sangoma Meet                         Sangoma.SangomaMeet          5.9.0                        winget
+Sangoma Phone                        Sangoma.SangomaPhone         4.2.0                        winget
+Sangoma TeamHub                      Sangoma.SangomaTeamHub       3.8.2-292                    winget
+Zulu                                 Sangoma.Zulu                 3.5.2                        winget
+Õ©îµ▓âÚøåµÄº                             Seewo.SeewoHugo              1.4.5.57                     winget
+µÄîõ©èþ£ïþÅ¡                             Seewo.SeewoHugoKanban        1.4.5.68                     winget
+PlugOS                               ShenzhenPingbo.PlugOS        1.4.11                       winget
+GoodSync                             SiberSystems.GoodSync        12.11.2.2                    winget
+JT2Go                                Siemens.JT2Go                2512.0.26064                 winget
+Simba ODBC Driver for Google BigQueÔÇª SimbaTechnologies.SimbaODBCÔÇª 3.2.1.3001                   winget
+DataSyncStudio                       Simego.DataSyncStudio        6.0.3586                     winget
+Sky Go                               Sky.SkyGo                    26.1.2.0                     winget
+Pokemon Showdown                     Smogon.PokemonShowdown       0.3.1                        winget
+LogonExpert                          Softros.LogonExpert          11.2.1                       winget
+LogonExpert Server                   Softros.LogonExpert.Server   25.10.9                      winget
+µÉ£þïùÞ¥ôÕàÑµ│ò                           Sogou.SogouInput             16.5.0.3885                  winget
+µÉ£þïùÞ¥ôÕàÑµ│òþÜ«Þéñþ╝ûÞ¥æÕÖ¿                 Sogou.SogouInputSkinEditor   6.6                          winget
+µÉ£þïùõ║öþ¼öÞ¥ôÕàÑµ│ò                       Sogou.SogouWBInput           5.5.0.2585                   winget
+Autofirma                            SpanishGovernment.Autofirma  1.9                          winget
+Instalador Tarjetas DNIe             SpanishGovernment.InstaladoÔÇª 1.2.0                        winget
+pytigon                              Splawik.pytigon              0.250514                     winget
+GoodbyeDPI UI                        Storik4pro.GoodbyeDPI-UI     1.2.14                       winget
+Coligo Connect Configuration Tool    Summa.ColigoConnectConfigurÔÇª 2.1.110                      winget
+Coligo DESKTOP                       Summa.ColigoDesktop          1.39.3                       winget
+GoNavi                               Syngnat.GoNavi               0.7.7                        winget
+gobang                               TaKO8Ki.gobang               0.1.0-alphaÔÇª                 winget
+Kangaroo MongoDB                     Taozuhong.KangarooMongoDB    9.5.1.531                    winget
+TeamSIP 2go                          TeamFON.TeamSIP2go           5.0.460                      winget
+Þà¥Þ«»µíîÚØóµò┤þÉå                         Tencent.DeskGo               4.2.1673.127                 winget
+Hamsket                              TheGoddessInari.Hamsket      0.6.3                        winget
+Outlook Calendar Sync                ThomasGossler.OutlookCalendÔÇª 1.2.2                        winget
+Jpegoptim                            TimoKokkonen.Jpegoptim       1.5.6                        winget
+Mask ROM Tool                        TravisGoodspeed.MaskROMTool  2025-06-01                   winget
+Remote System Monitor Server         Trigone.SystemMonitor        3.69                         winget
+ðÜÐÇð©ð┐Ðéð¥ðÉðáð£ ðôð×ðíðó                       TrustedRu.CryptoARMGOST      2.5                          winget
+Eden (┬½x86_64-v3┬╗/ARM64 instructionÔÇª Utopia.Eden.MinGW-PGO        0.2.1                        winget
+GoodbyeDPI                           ValdikSS.GoodbyeDPI          0.2.3rc3                     winget
+WagoApp                              Wago.Addons                  2.5.7                        winget
+Igor Pro 10                          WaveMetrics.IgorPro.10       10.2.1.30040                 winget
+Igor Pro 6                           WaveMetrics.IgorPro.6        6.3.7.2                      winget
+Igor Pro 6 (64-bit)                  WaveMetrics.IgorPro.6.x64    6.3.7.2                      winget
+Igor Pro 7                           WaveMetrics.IgorPro.7        7.0.8.1                      winget
+Igor Pro 8                           WaveMetrics.IgorPro.8        8.0.4.2                      winget
+Igor Pro 9                           WaveMetrics.IgorPro.9        9.0.5.1                      winget
+Mango AM                             WonderIdea.MangoAnimationMaÔÇª 3.0.803                      winget
+Mango CM                             WonderIdea.MangoCharacterMaÔÇª 2.4.600                      winget
+Mango PM                             WonderIdea.MangoPresentatioÔÇª 4.8.561                      winget
+Mango Video Maker                    WonderIdea.MangoVideoMaker   1.0.200                      winget
+Mango Whiteboard Animation Maker     WonderIdea.MangoWhiteboardAÔÇª 2.3.200                      winget
+Wondershare MirrorGo                 Wondershare.MirrorGo         2.0.11.346                   winget
+X2Go Client for Windows              X2go.x2goclient              4.1.2.2-202ÔÇª                 winget
+AutoLogout                           Yiays.AutoLogout             0.9.1                        winget
+InputTip                             abgox.InputTip               3.3.0                        winget
+Gource                               acaudwell.Gource             0.53                         winget
+Punto Banco (Baccarat) on Go         adequatica.Punto-Banco-GolaÔÇª 1.0.2                        winget
+Google Chat Electron                 ankurk91.GoogleChatElectron  2.20.0                       winget
+ArgoCD                               argoproj.argocd              3.4.3                        winget
+Google Meet                          arjun-g.google-meet-desktop  1.2.0                        winget
+kogiQA                               atagon.com.kogiQA            0.5.1064                     winget
+BongoCat                             ayangweb.BongoCat            1.1.0                        winget
+Gow                                  bmatzelle.Gow                0.8.0                        winget
+Assignment Packer                    cat-forgor.ap                1.0.3                        winget
+cogmoteGO                            ccccraz.cogmoteGO            0.1.44                       winget
+go-p2ptunnel                         chenjia404.go-p2ptunnel      0.2.36                       winget
+Gonzo                                control-theory.gonzo         0.4.2                        winget
+WEHAGO                               douzone.WEHAGO               1.6.4.63                     winget
+SFTPGo                               drakkan.SFTPGo               v2.7.3                       winget
+SFTPGo Enterprise                    drakkan.SFTPGoEnterprise     2.7.2026.05ÔÇª                 winget
+CSGO account checker                 dumbasPL.CSGOAccountChecker  1.4.4                        winget
+DevDocs                              egoist.devdocs-desktop       0.7.2                        winget
+Dragon UnPACKer                      elbereth.DragonUnPACKer      5.6.2                        winget
+ungoogled-chromium                   eloston.ungoogled-chromium   148.0.7778.ÔÇª                 winget
+SimpleDockerUI                       felixgborrego.simple-dockerÔÇª 0.5.5                        winget
+Muu                                  foolsgold.Muu                0.4.0                        winget
+PangoTerm                            fpaitoo.PangoTerm            1.0.4                        winget
+Games App touchpoint outer installer gamigo.WildTangentGamesApp   4.1.1.137                    winget
+getgovroam                           geteduroam.getgovroam        4.2.6                        winget
+go-musicfox                          go-musicfox.go-musicfox      4.8.0                        winget
+shiori                               go-shiori.shiori             1.8.0                        winget
+XIVLauncher                          goatcorp.XIVLauncher         7.0.20                       winget
+M3U8 Downloader                      gonwan.M3U8-Downloader       0.8.2                        winget
+Gopass CLI                           gopass.gopass                1.16.1                       winget
+gopass-jsonapi                       gopass.gopass-jsonapi        1.16.1                       winget
+Vizb                                 goptics.vizb                 0.12.0                       winget
+goreleaser                           goreleaser.goreleaser        2.16.0                       winget
+goreleaser-pro                       goreleaser.goreleaser-pro    2.16.0                       winget
+mcp                                  goreleaser.mcp               0.4.0                        winget
+nfpm                                 goreleaser.nfpm              2.46.3                       winget
+Projector                            gorodulin.prj                0.8.0                        winget
+Zapret Hub                           goshkow.ZapretHub            1.4.4.0                      winget
+Komga                                gotson.Komga                 1.24.3                       winget
+Phantom                              hammadxcm.go-phantom         0.0.2                        winget
+Sideloadly                           iOSGods.Sideloadly           0.60.0                       winget
+itun2socks                           igoogolx.itun2socks          1.34.3                       winget
+lux                                  igoogolx.lux                 1.40.2                       winget
+Context Builder                      igorls.context-builder       0.8.3-1                      winget
+Voice Desktop                        jerrod-lankford.google-voicÔÇª 1.3.1                        winget
+Pano Scrobbler                       kawaiiDango.pano-scrobbler   4.40                         winget
+Google Calendar                      klinker24.google-calendar-dÔÇª 1.7.1                        winget
+AO3Fetch                             legowerewolf.AO3Fetch        2.1.3                        winget
+Tockler                              maygo.tockler                4.0.21                       winget
+Local Cargo                          mehmetali011.LocalCargo      1.0.0                        winget
+go-msi                               mh-cbon.go-msi               1.0.2                        winget
+Gopeed                               monkeyWie.Gopeed             1.9.3                        winget
+Gopeed Web                           monkeyWie.Gopeed.Web         1.9.3                        winget
+goji                                 muandane.goji                0.1.9                        winget
+cargo-nextest                        nextest.cargo-nextest        0.9.137                      winget
+pxgo                                 pavelsimo.pxgo               0.4.0                        winget
+Plogue AlterEgo                      plogue.alterego              v1.571                       winget
+read.tre                             polygonstew.read.tre         1.0.3                        winget
+BaiduPCS-Go                          qjfoidnh.BaiduPCS-Go         4.0.1                        winget
+goreleaser-testing                   robinovitch61.goreleaser-teÔÇª 0.37.0                       winget
+Gotify Tray                          serid.GotifyTray             0.5.3                        winget
+AIChat                               sigoden.AIChat               0.30.0                       winget
+Dufs                                 sigoden.Dufs                 0.45.0                       winget
+Window Switcher                      sigoden.WindowSwitcher       1.17.0                       winget
+opscan                               sigoden.opscan               0.4.0                        winget
+immich-go                            simulot.immich-go            0.31.0                       winget
+google-chat-linux                    squalou.google-chat-linux    5.39.25-1                    winget
+gogcli                               steipete.gogcli              0.21.0                       winget
+OpenStego                            syvaidya.openstego           0.8.6                        winget
+QShell                               tea4go.QShell                5.5.7                        winget
+cloudpan189-go                       tickstep.cloudpan189-go      0.1.3                        winget
+TinyGo                               tinygo-org.tinygo            0.41.1                       winget
+dive                                 wagoodman.dive               0.13.1                       winget
+iGot                                 wahao.Electron-iGot          1.1.1                        winget
+Crushee                              xanderfrangos.crushee        2.4.6                        winget
+Twinkle Tray                         xanderfrangos.twinkletray    1.17.2                       winget
+goldendict-ng                        xiaoyifang.GoldenDict-ng     26.5.6                       winget
+Õà¼µûçµÄÆþëêÕè®µëï                         xkonglong.gongwen            3.0.0.0                      winget
+GoAuthing                            z4yx.GoAuthing               2.4.0                        winget
+Segoe Icons                          zadjii.SegoeIcons            0.0.3.0                      winget
+ThreeFingerDragOnWindows             Cl├®mentGrennerat.ThreeFingeÔÇª 2.0.7.0                      winget
+Duo Authentication for Windows Logon DuoSecurity.Duo2FAAuthenticÔÇª 5.3.0.2497                   winget
+Colobot: Gold Edition                Epsitec.Colobot              alpha-0.1.12                 winget
+Ethereum - Geth - Official Go impleÔÇª Ethereum.geth                1.17.3                       winget
+Godot RE Tools                       GDRETools.gdsdecomp          2.4.0                        winget
+NoSQLBooster for MongoDB             NoSQLBooster.NoSQLBooster    8.1.7                        winget
+Google Readonly CLI                  OpenCLICollective.gro        1.0.24                       winget
+GoYogiyo                             Wesang.Yogiyo                4.0.6                        winget
+Google Book Scraper                  shloop.gbscraper             0.4.0                        winget
+OFGB (Oh Frick Go Back)              xM4ddy.OFGB                  0.4                          winget
+Streamway OBS Plugin                 Streamway.OBSPlugin          0.1.0.0      Moniker: golive winget
+Rustup: the Rust toolchain installer Rustlang.Rustup              1.29.0       Command: cargo  winget
+0xGingi-Browser                      0xGingi.Browser              115.0.5790.ÔÇª Tag: ÕÄ╗GoogleÔÇª  winget
+Robo 3T                              3TSoftwareLabs.Robo3T        1.4.4        Tag: mongo      winget
+Studio 3T                            3TSoftwareLabs.Studio3T      2026.10.0    Tag: mongodb    winget
+Moon Modeler                         Ideamerit.MoonModeler        12.6.2       Tag: mongodb    winget
+DbGate                               JanProchazka.dbgate          7.1.13       Tag: mongodb    winget
+PremiumSoft Navicat Premium          PremiumSoft.NavicatPremium   17.3.10      Tag: mongodb    winget
+TriCo                                ngudbhav.TriCo               3.1.0        Tag: mongodb    winget
+DBX                                  t8y2.DBX                     0.5.28       Tag: mongodb    winget
+5EClient                             5E.5EClient                  8.2.6        Tag: csgo       winget
+Õ«îþ¥Äõ©ûþòîþ½×µèÇÕ╣│ÕÅ░                     PerfectWorld.PerfectWorldArÔÇª 1.0.26060111 Tag: csgo       winget
+CS Buyscriptor                       RII7.CSBuyscriptor           1.0          Tag: csgo       winget
+HLAE                                 advancedfx.HLAE              2.190.2      Tag: csgo       winget
+AOMEI Partition Assistant            AOMEI.PartitionAssistant     10.10.1      Tag: windowstoÔÇª winget
+AOMEI Partition Assistant (ARM64)    AOMEI.PartitionAssistant.ARÔÇª 10.8.2       Tag: windowstoÔÇª winget
+WinPaletter                          Abdelrhman-AK.WinPaletter    1.0.9.8      Tag: logonui    winget
+Heads-Up Display                     AcaciaAve.HUD                1.0.086.2    Tag: government winget
+Cyber Intel Classification Banner    CyberIntelSystems.CICB       2.9.11.161   Tag: government winget
+AdGuardHome                          AdGuard.AdGuardHome.Beta     0.108.0-b.85 Tag: golang     winget
+DNS Proxy                            AdGuard.dnsproxy             0.81.4       Tag: golang     winget
+Trivy                                AquaSecurity.Trivy           0.71.0       Tag: golang     winget
+Arduino CLI                          ArduinoSA.CLI                1.5.0        Tag: golang     winget
+Topaz                                Aserto.Topaz                 0.33.14      Tag: golang     winget
+axon                                 AxonHub.Axon                 1.11.2       Tag: golang     winget
+pace                                 Azuyamat.Pace                1.0.17       Tag: golang     winget
+scc                                  BenBoyter.scc                3.7.0        Tag: golang     winget
+PassPort                             Buct0r.PassPort              0.3.0        Tag: golang     winget
+circleci-cli                         CircleCI.CLI                 0.1.36202    Tag: golang     winget
+Cloudreve                            Cloudreve.Cloudreve          4.15.0       Tag: golang     winget
+Beehiiv CLI                          Deldrid1.BeehiivCLI          0.2.1        Tag: golang     winget
+butane                               Fedora.CoreOS.butane         0.28.0       Tag: golang     winget
+GLab                                 GLab.GLab                    1.101.0      Tag: golang     winget
+git-sizer                            GitHub.git-sizer             1.5.0        Tag: golang     winget
+Graylog Sidecar                      GraylogInc.GraylogSidecar    1.5.4        Tag: golang     winget
+IPM                                  HexmosTech.IPM               0.1.40       Tag: golang     winget
+Telegraf                             InfluxData.Telegraf          1.36.3       Tag: golang     winget
+Keybase                              Keybase.Keybase              6.6.2.2      Tag: golang     winget
+kwok                                 Kubernetes.kwok              0.7.0        Tag: golang     winget
+kwokctl                              Kubernetes.kwokctl           0.7.0        Tag: golang     winget
+newsletter-cli                       Loickal.NewsletterCLI        1.0.0-BETA-1 Tag: golang     winget
+DupliScan                            Melkam.DupliScan             0.1.0        Tag: golang     winget
+yq                                   MikeFarah.yq                 4.53.2       Tag: golang     winget
+Secrets OPerationS                   Mozilla.SOPS                 3.7.3        Tag: golang     winget
+bookmux                              MrZoidberg.bookmux           0.1.14       Tag: golang     winget
+letshare                             MuhamedUsman.Letshare        1.0.1        Tag: golang     winget
+Netbird                              Netbird.Netbird              0.67.1       Tag: golang     winget
+Picocrypt                            Picocrypt.Picocrypt          1.49         Tag: golang     winget
+srvctl                               ServersCom.srvctl            1.0.2        Tag: golang     winget
+Loom                                 Teradata.Loom                1.0.2        Tag: golang     winget
+Talisman                             Thoughtworks.Talisman        1.37.0       Tag: golang     winget
+tenv                                 Tofuutils.Tenv               4.12.2       Tag: golang     winget
+get-feishu-docs                      Wangnov.GetFeishuDocs        0.3.0        Tag: golang     winget
+ticker                               achannarasappa.ticker        5.2.1        Tag: golang     winget
+kubectx                              ahmetb.kubectx               0.11.0       Tag: golang     winget
+kubens                               ahmetb.kubens                0.11.0       Tag: golang     winget
+impulsar                             aimotrens.impulsar           0.19.5       Tag: golang     winget
+f2                                   ayoisaiah.f2                 2.2.2        Tag: golang     winget
+tldx                                 brandonyoungdev.tldx         1.3.4        Tag: golang     winget
+qrcp                                 claudiodangelis.qrcp         0.11.6       Tag: golang     winget
+datamitsu                            datamitsu.datamitsu          0.0.17       Tag: golang     winget
+Ente Auth                            ente-io.auth-desktop         4.4.22       Tag: golang     winget
+Ente CLI                             ente-io.ente.CLI             0.2.3        Tag: golang     winget
+envolve                              erdemkosk.envolve            1.0.19       Tag: golang     winget
+gRPCurl                              fullstorydev.grpcurl         1.9.3        Tag: golang     winget
+kubelogin                            int128.kubelogin             1.36.1       Tag: golang     winget
+tufie                                kairoaraujo.tufie            0.3.0        Tag: golang     winget
+dssh                                 madLinux.dssh                2.1.1        Tag: golang     winget
+minder                               mindersec.minder             0.1.2        Tag: golang     winget
+llama-swap                           mostlygeek.llama-swap        222          Tag: golang     winget
+kontext                              orbatschow.kontext           1.6.0        Tag: golang     winget
+TCPING                               pj.tcping                    2.8.0        Tag: golang     winget
+tuf-client                           rdimitrov.tuf-client         0.0.7        Tag: golang     winget
+mpwt                                 songlim327.mpwt              1.1.0        Tag: golang     winget
+frizbee                              stacklok.frizbee             0.1.10       Tag: golang     winget
+minder                               stacklok.minder              0.0.77       Tag: golang     winget
+thv                                  stacklok.thv                 0.28.3       Tag: golang     winget
+vfox                                 version-fox.vfox             1.0.11       Tag: golang     winget
+regit                                woaitsAryan.regit            0.4.2        Tag: golang     winget
+cxcli                                xavidop.cxcli                1.239.0      Tag: golang     winget
+superfile                            yorukot.superfile            v1.4.0       Tag: golang     winget
+GamebarHandler                       Aida-Enna.GamebarHandler     1.0.0.0      Tag: ms-gamingÔÇª winget
+Cerebro                              AlexandrSubbotin.Cerebro     0.11.0       Tag: google     winget
+µ»öÞ»æ                                 Biyi.Biyi                    0.5.0        Tag: google     winget
+gemini-collector                     FirenzeLor.gemini-collector  2.0.6        Tag: google     winget
+gam                                  GAM-Team.gam                 7.44.03      Tag: google     winget
+gam.portable                         GAM-Team.gam.Portable        7.44.03      Tag: google     winget
+Infracost                            Infracost.Infracost          0.10.44      Tag: google     winget
+Crow Translate                       KDE.CrowTranslate            3.0.0        Tag: google     winget
+gmail-ro                             OpenCLICollective.gmail-ro   1.0.16       Tag: google     winget
+G Desktop Suite                      alexkim205.g-desktop-suite   0.3.1        Tag: google     winget
+Messages for Web                     asheroto.MessagesforWeb      1.0.4        Tag: google     winget
+Electronic Gmail                     jie17.electronic-gmail       0.0.18       Tag: google     winget
+OpenDrive                            liberodark.ODrive            0.3.0        Tag: google     winget
+Kube Forwarder                       pixel-point.kube-forwarder   1.5.1        Tag: google     winget
+Gmail Desktop                        timche.gmail-desktop         2.25.3       Tag: google     winget
+ttth                                 yafp.ttth                    1.8.0        Tag: google     winget
+Allusion                             Allusion.Allusion            1.0.0-rc.10  Tag: category   winget
+Billfish                             Billfish.Billfish            3.1.5.12     Tag: category   winget
+Eagle                                ogdesign.Eagle               4.0.0.42     Tag: category   winget
+Hangar                               AnssolLabs.Hangar            1.0.0        Tag: laragon    winget
+AirServer Windows Desktop Edition    AppDynamic.AirServerWindowsÔÇª 2025.7.23    Tag: google-caÔÇª winget
+ArrayFire                            ArrayFire.ArrayFire          3.9.0        Tag: algorithm  winget
+CP Editor                            CPEditor.CPEditor            7.0.2        Tag: algorithm  winget
+AxCrypt File Encryption              AxCrypt.AxCrypt              3.0.94       Tag: google-drÔÇª winget
+Insync                               Insynchq.Insync              3.8.11.50514 Tag: google-drÔÇª winget
+Mountain Duck                        Iterate.MountainDuck         5.2.1.28671  Tag: google-drÔÇª winget
+RaiDrive                             OpenBoxLab.RaiDrive          2023.9.256   Tag: google-drÔÇª winget
+RaiDrive (Managed)                   OpenBoxLab.RaiDrive.Managed  2023.9.256.1 Tag: google-drÔÇª winget
+RClone Manager                       RClone-Manager.rclone-managÔÇª v0.2.6       Tag: google-drÔÇª winget
+WebDrive                             SouthRiverTechnologies.WebDÔÇª 1.1.18       Tag: google-drÔÇª winget
+Wondershare InClowdz                 Wondershare.InClowdz         2.0.9        Tag: google-drÔÇª winget
+Snap2Link                            amys94fr.Snap2Link           1.4.0        Tag: google-drÔÇª winget
+BISS                                 B-trust.BISS                 3.46         Tag: eGov       winget
+Aplica AI                            BNCConsultoria.AplicaAI      1.1.1        Tag: emprego    winget
+BPBible                              BPBible.BPBible              0.5.3.1      Tag: god        winget
+Nekot                                BalanceBalls.Nekot           0.8.3        Tag: google-geÔÇª winget
+EyesAndEars                          FediMust.EyesAndEars         2.7          Tag: google-geÔÇª winget
+Kensington KonnectTM (Keyboards)     Kensington.KensingtonKonnect 1.3.0.0      Tag: google-geÔÇª winget
+LobeHub-Beta                         LobeHub.LobeHub              2.2.1        Tag: google-geÔÇª winget
+AI                                   PrivacyPal.AI                1.8.2        Tag: google-geÔÇª winget
+Poe                                  Quora.Poe                    1.1.40       Tag: google-geÔÇª winget
+WiseX                                WiseCleaner.WiseX            1.0.2        Tag: google-geÔÇª winget
+AxonHub                              looplj.AxonHub               1.0.0-beta2  Tag: google-geÔÇª winget
+Beeper                               Beeper.Beeper                4.2.892      Tag: google-chÔÇª winget
+All-in-One Messenger                 HenrikWenz.All-in-OneMessenÔÇª 2.5.0        Tag: google-chÔÇª winget
+Franz                                StefanMalzner.Franz          5.11.0       Tag: google-chÔÇª winget
+Batch File Encrypt Free Edition      BinaryMark.BatchFileEncrypt  5.0          Tag: encryptioÔÇª winget
+BlueStacks                           BlueStack.BlueStacks         5.22.166.10ÔÇª Tag: googleplaÔÇª winget
+Rust-Script                          FredrikFornwall.Rust-Script  0.36.0       Tag: cargo      winget
+chsrc                                RubyMetric.chsrc             0.2.5        Tag: cargo      winget
+Rust (GNU LLVM)                      Rustlang.Rust.GNU.LLVM       1.95.0       Tag: cargo      winget
+dist                                 axodotdev.dist               0.31.0       Tag: cargo      winget
+PartDesigner                         BrickLink.PartDesigner       2.25.3       Tag: lego       winget
+Studio                               BrickLink.Studio             2.26.5_1     Tag: lego       winget
+Studio 2.0 EarlyAccess version 2.0   BrickLink.Studio.EarlyAccess 2.24.1       Tag: lego       winget
+LeoCAD                               LeonardoZide.LeoCAD          25.09        Tag: lego       winget
+cloudflared                          Cloudflare.cloudflared       2026.5.2     Tag: argo-tunnÔÇª winget
+Concept2 Utility                     Concept2.Utility             7.10.19      Tag: ergo       winget
+Discord                              Discord.Discord              1.0.9240     Tag: jogos      winget
+Discord (arm64)                      Discord.Discord.arm64        1.0.32       Tag: jogos      winget
+abmaze4                              DosWorld.abmaze4             20230423     Tag: aldous-brÔÇª winget
+EMCO Remote Shutdown 7               EMCO.RemoteShutdown.7        7.4.4        Tag: logoff     winget
+EPA SWMM 5.2.4 (64-bit)              EPA.SWMM                     5.2.4        Tag: united-stÔÇª winget
+Õ¥ÀÞ»¡Õè®µëï                             EuSoft.Dehelper              26.4.0.0     Tag: lingoes    winget
+ÞÑ┐Þ»¡Õè®µëï                             EuSoft.Eshelper              26.4.0.0     Tag: lingoes    winget
+µ¼ºÞÀ»Þ»ìÕà©                             EuSoft.Eudic                 26.4.0.0     Tag: lingoes    winget
+µ│òÞ»¡Õè®µëï                             EuSoft.Frhelper              26.4.0.0     Tag: lingoes    winget
+Pomodorot                            MLMGames.Pomodorot           0.13.3       Tag: godot      winget
+Pixelorama                           OramaInteractive.Pixelorama  1.1.10       Tag: godot      winget
+Material Maker                       RodZill4.MaterialMaker       1.6          Tag: godotengiÔÇª winget
+fontget                              Graphixa.FontGet             2.5.0        Tag: google-foÔÇª winget
+Gyroflow                             Gyroflow.Gyroflow            1.6.3        Tag: gopro      winget
+HandBrake                            HandBrake.HandBrake          1.11.1       Tag: pineappleÔÇª winget
+Lux                                  JackDevey.Lux                1.1.1        Tag: govee      winget
+Nova                                 Jasmine.Nova                 1.7.0        Tag: govee      winget
+Post On Screen Pro                   Japplis.PostOnScreen.Pro     1.4          Tag: logo       winget
+kturtle                              KDE.KTurtle                  26.07.70     Tag: logo       winget
+PyCharm                              JetBrains.PyCharm            2026.1.2     Tag: django     winget
+PyCharm Community Edition            JetBrains.PyCharm.Community  2025.2.6.1   Tag: django     winget
+PyCharm Community Edition (EAP)      JetBrains.PyCharm.CommunityÔÇª 252.23892.1ÔÇª Tag: django     winget
+PyCharm (EAP)                        JetBrains.PyCharm.EAP        262.6653.28  Tag: django     winget
+PyCharm Professional Edition         JetBrains.PyCharm.ProfessioÔÇª 2024.3.5     Tag: django     winget
+PyCharm Professional Edition (EAP)   JetBrains.PyCharm.ProfessioÔÇª 251.23774.3ÔÇª Tag: django     winget
+MasterAgent                          JinweiZhiguang.MasterAgent   0.6.5        Tag: mastergo   winget
+bovo                                 KDE.Bovo                     master       Tag: gomoku     winget
+Navicat Monitor                      PremiumSoft.NavicatMonitor   3.1.4        Tag: Google     winget
+kolf                                 KDE.Kolf                     master       Tag: minigolf   winget
+Programmer Dvorak                    KaufmannNO.ProgrammerDvorak  1.2.9        Tag: ergonomic  winget
+Kensington Fingerprint Application   Kensington.FingerprintAppliÔÇª 1.0.0.12     Tag: logon      winget
+PicList                              Kuingsmile.PicList           3.4.0        Tag: picgo      winget
+agtop                                MBrassey.agtop               2.4.24       Tag: goose      winget
+FLOSS                                Mandiant.FLOSS               3.1.1        Tag: googlecloÔÇª winget
+McServ                               McServ.McServ                0.2.1        Tag: spigot     winget
+Meinberg Device Manager              MeinbergGlobal.DeviceManager 7.4          Tag: meinbergos winget
+Miller                               Miller.Miller                6.13.0       Tag: streamingÔÇª winget
+ManiaPlanet                          Nadeo.ManiaPlanet            4.1          Tag: lagoon     winget
+EyeRest                              NecdetSanli.EyeRest          1.3.0        Tag: ergonomics winget
+Kangaroo MariaDB                     Taozuhong.KangarooMariaDB    9.5.1.531    Tag: MongoDB    winget
+Kangaroo Multiple                    Taozuhong.KangarooMultiple   9.5.1.531    Tag: MongoDB    winget
+Kangaroo MySQL                       Taozuhong.KangarooMySQL      9.5.1.531    Tag: MongoDB    winget
+Kangaroo Oracle                      Taozuhong.KangarooOracle     9.5.1.531    Tag: MongoDB    winget
+Kangaroo PostgreSQL                  Taozuhong.KangarooPostgreSQL 9.5.1.531    Tag: MongoDB    winget
+Kangaroo Redis                       Taozuhong.KangarooRedis      9.5.1.531    Tag: MongoDB    winget
+Kangaroo SQLServer                   Taozuhong.KangarooSQLServer  9.5.1.531    Tag: MongoDB    winget
+Kangaroo SQLite                      Taozuhong.KangarooSQLite     9.5.1.531    Tag: MongoDB    winget
+Replit                               Replit.Replit                1.0.19       Tag: c├│digo     winget
+Chromium Installer                   RobRich999.Chromium_Clang.AÔÇª 148.0.7759.0 Tag: pgo        winget
+Chromium Installer                   RobRich999.Chromium_Clang.AÔÇª 148.0.7759.0 Tag: pgo        winget
+Chromium Installer                   RobRich999.Chromium_Clang.AÔÇª 148.0.7759.0 Tag: pgo        winget
+Rockbox Utility                      Rockbox.RockboxUtility       1.5.1        Tag: gogear     winget
+Caesium Image Compressor             SaeraSoft.CaesiumImageComprÔÇª 2.8.5        Tag: pngoptimiÔÇª winget
+Genshin Stella Mod                   Sefinek.GenshinStellaMod     8.10.1.0     Tag: genshin-3ÔÇª winget
+doc-html-translate                   SerZhyAle.DocHtmlTranslate   26.0511.0342 Tag: google-trÔÇª winget
+Serverless Framework                 Serverless.Serverless        3.39.0       Tag: google-clÔÇª winget
+NIKKE                                ShiftUp.NIKKE                0.0.6.212    Tag: goddessofÔÇª winget
+ssg                                  SigmaShake.SSG               0.29.119     Tag: governance winget
+MSXCP                                jaimecartodb.MSXCP           0.3.1        Tag: governance winget
+TableCloth                           TableClothProject.TableCloth 1.16.3       Tag: e-governmÔÇª winget
+OpenKey                              Tuyenvm.OpenKey              2.0.5        Tag: bogo       winget
+UnitaryLab CLI                       UnitaryLab.CLI               0.1.0        Tag: - quantumÔÇª winget
+Eden (┬½x86_64-v3┬╗/ARM64 instructionÔÇª Utopia.Eden.MinGW            0.2.1        Tag: utopia-edÔÇª winget
+Vovsoft Batch Translator             VovSoft.BatchTranslator      5.0.0.0      Tag: Argos      winget
+Vovsoft Batch URL Downloader         VovSoft.BatchURLDownloader   6.2.0.0      Tag: GoogleDriÔÇª winget
+Vovsoft Bulk QR Code Generator       VovSoft.BulkQRCodeGenerator  2.6.0.0      Tag: Logo       winget
+Vovsoft Container Loading Calculator VovSoft.ContainerLoadingCalÔÇª 1.5.0.0      Tag: Cargo      winget
+InspireMusic                         WHStudio.InspireMusic        1.3.3.2      Tag: kugou      winget
+lx-music-desktop                     lyswhut.lx-music-desktop     2.12.2       Tag: kugou      winget
+Wings 3D                             Wings3D.Wings3D              2.4.1.0      Tag: polygon    winget
+Wondershare Creative Center          Wondershare.CreativeCenter   1.0.15       Tag: filmorago  winget
+Yggdrasil Network                    YggdrasilNetwork.Yggdrasil   0.5.13       Tag: routing-aÔÇª winget
+ipt                                  byte-physics.ipt             0.11.0       Tag: igor-pro   winget
+CUETools                             gchudov.CUETools             2.2.6        Tag: lossless-ÔÇª winget
+Comet                                imLinguin.comet              0.3.2        Tag: gog-galaxy winget
+msix-no-cert                         iqnite.msix-no-cert          2.2.1        Tag: selfsigniÔÇª winget
+Listen1                              listen1.listen1              2.33.0       Tag: kugou-musÔÇª winget
+Listen1 Fluent                       listen1.listen1.fluent       2.28.0       Tag: kugou-musÔÇª winget
+dezoomify-rs                         lovasoa.dezoomify-rs         2.15.0       Tag: google-arÔÇª winget
+Didder                               makeworld.Didder             1.3.0        Tag: ditheringÔÇª winget
+gallery-dl                           mikf.gallery-dl              1.32.1       Tag: ugoira     winget
+TwitchNotify                         mmozeiko.TwitchNotify        2025-08-25   Tag: twitch-usÔÇª winget
+Hindsight                            obsidianforensics.HindsightÔÇª 2026.04      Tag: google-chÔÇª winget
+Black                                psf.black                    25.1.0       Tag: gofmt      winget
+commitizen                           shipengqi.commitizen         2.3.5        Tag: commitizeÔÇª winget
+tosu                                 tosuapp.tosu                 4.19.3       Tag: gosu       winget
+gvsbuild                             wingtk.gvsbuild.GTK4         2026.4.1     Tag: pygobject  winget
